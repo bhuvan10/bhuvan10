@@ -15,7 +15,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkydGZiYXdvM3gwc2VzN3R0emJ6Z3prMm0yMmpodXoxZ2VuZ3k0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" align="right" width="300" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhuvan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvan-gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhuvan-gupta-8a4041226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvan-gupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhuvan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvan-gupta" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
